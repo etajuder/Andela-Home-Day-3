@@ -1,0 +1,30 @@
+{
+  "name": "array-prototype",
+  "version": "1.0.0",
+  "description": "Creating and array prototype and searching through array",
+  "main": "App/index.js",
+  "scripts": {
+    "test": "jasmine tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wapjude/Andela-Home-Day-3.git"
+  },
+  "keywords": [
+    "Array",
+    "Prototype",
+    "Array",
+    "Search",
+    "Binary",
+    "Search"
+  ],
+  "author": "Etanuwoma Jude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wapjude/Andela-Home-Day-3/issues"
+  },
+  "homepage": "https://github.com/wapjude/Andela-Home-Day-3#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
